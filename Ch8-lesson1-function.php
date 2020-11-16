@@ -1,6 +1,6 @@
 <?php
     $message = strlen("I am learning some php");
-    //$var = strlen("I am learning some php")
+    //$var = strlen("I am learning some php");
 
 ?>
 <DOCTYPE html>
